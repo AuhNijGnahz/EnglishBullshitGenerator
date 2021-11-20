@@ -1,6 +1,8 @@
 # EnglishBullshitGenerator
 # 狗屁不通高中英语作文生成器
 
+欢迎大家踩踩我的博客：https://blog.zixutech.cn/
+
 由https://github.com/menzi11/BullshitGenerator 启发而做的一个小玩具
 
 现在是第一版，UI啥都没做，简单弄了个HTML跑起来，后续我会慢慢更新语句库和UI。
