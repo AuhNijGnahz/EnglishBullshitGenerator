@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>狗屁不通英语作文生成器</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js"></script>
+    <script src="main.js"></script>
+</head>
+<body>
+<div>
+    <label>
+        <input id="title" type="text" value="Input your title" />
+    </label>
+    <button onclick="make()">生成</button>
+    <div style="text-indent: 1em;" id="article"></div>
+    <script>
+        function make() {
+            let title = $('#title').val()
+            let article = makeArticle(title)
+            console.log(article)
+            for (let i = 0; i < article.length; i++) {
+                $('#article').append(`<p style="text-indent: 1em;">${article[i]}</p>`)
+            }
+            $('#article').append('<hr />')
+        }
+    </script>
+</div>
+</body>
+</html>
