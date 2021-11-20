@@ -3,3 +3,12 @@
 
 由https://github.com/menzi11/BullshitGenerator 启发而做的一个小玩具
 
+现在是第一版，UI啥都没做，简单弄了个HTML跑起来，后续我会慢慢更新语句库和UI。
+Its my first version with simple html sample, i will improve the library and make some good ui.
+
+## 声明：本工具生成的英语作文有时候还真TM能读通，比如下面截图这个。。仅供娱乐请勿用于考试。
+
+![测试图](https://imgtu.com/i/IOcjJK)
+![测试图](https://imgtu.com/i/IOcvRO)
+
+真是笑死我力。初高中生有福了！
