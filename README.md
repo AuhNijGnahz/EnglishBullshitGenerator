@@ -8,7 +8,7 @@ Its my first version with simple html sample, i will improve the library and mak
 
 ## 声明：本工具生成的英语作文有时候还真TM能读通，比如下面截图这个。。仅供娱乐请勿用于考试。
 
-![测试图](https://imgtu.com/i/IOcjJK)
-![测试图](https://imgtu.com/i/IOcvRO)
+[![IOcjJK.jpg](https://z3.ax1x.com/2021/11/20/IOcjJK.jpg)](https://imgtu.com/i/IOcjJK)
+[![IOcvRO.png](https://z3.ax1x.com/2021/11/20/IOcvRO.png)](https://imgtu.com/i/IOcvRO)
 
 真是笑死我力。初高中生有福了！
